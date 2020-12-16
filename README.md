@@ -6,7 +6,6 @@
 
 - 🔭 Projet en cours de construction
 - 📫 Comment me contacter : [Discord](https://discord.gg/78M3hSt)
-- 💻 I use [Webstorm](https://www.jetbrains.com/fr-fr/webstorm/) IDE powered by [JetBrainsIDE](https://www.jetbrains.com/fr-fr/)
 
 
 ## 🌍 Languages de programation :
