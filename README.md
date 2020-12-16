@@ -19,9 +19,8 @@
   <img alt="vscode" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png"/>
 </p>
   
-
+## Compteur de visite :
 <p align="left"> 
-  Visitor count<br>
   <img src="https://profile-counter.glitch.me/SonMaxime/count.svg" />
 </p>
 
