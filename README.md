@@ -1,4 +1,4 @@
-### Hi, I'm Derp
+### Hi, I'm SonMaxime
 
 [![discord](https://discord.com/api/guilds/715493005045268541/widget.png)](https://discord.gg/78M3hSt)
 
