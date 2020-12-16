@@ -1,6 +1,6 @@
 ### Hi, I'm SonMaxime
 
-[Discord](https://discord.com/api/guilds/715493005045268541/widget.json)(discord.gg/78M3hSt)
+[![discord](https://discord.com/api/guilds/715493005045268541/widget.json)](discord.gg/78M3hSt)
 
 
 - 🔭 Projet en cours de construction : [Byleth Radio](https://github.com/SonMaxime/ByltehRadio.JS)
