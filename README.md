@@ -5,7 +5,7 @@
 
 
 - 🔭 Projet en cours de construction
-- 📫 Comment me contacter : [Discord](https://discord.gg/78M3hSt)
+- 📫 Comment me contacter : [Discord](https://discord.gg/78M3hSt) / [Twitter](twitter.com/sonmaximeapx)
 
 
 ## 🌍 Languages de programation :
