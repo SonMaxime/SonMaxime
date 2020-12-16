@@ -5,17 +5,13 @@
 
 - 🔭 Projet en cours de construction : [Byleth Radio](https://github.com/SonMaxime/ByltehRadio.JS)
 - 📫 Comment me contacter : [Discord](https://discord.gg/78M3hSt) / [Twitter](twitter.com/sonmaximeapx)
+- Avec quoi je programe ? : <img alt="vscode" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png"/>
 
 
 ## 🌍 Languages de programation :
 <p>
   <img alt="js" src="https://img.shields.io/badge/-Javascript-FFEE00?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="c++" src="https://img.shields.io/badge/-C++-21B500?style=flat-square&logo=C++&logoColor=white" />
-</p>
-
-## ⚙️ Outil de programation :
-<p>
-  <img alt="vscode" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png"/>
 </p>
   
 ## Compteur de visite :
