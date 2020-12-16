@@ -4,7 +4,7 @@
 
 
 
-- 🔭 Projet en cours de construction
+- 🔭 Projet en cours de construction : [Byleth Radio](https://github.com/SonMaxime/ByltehRadio.JS)
 - 📫 Comment me contacter : [Discord](https://discord.gg/78M3hSt) / [Twitter](twitter.com/sonmaximeapx)
 
 
