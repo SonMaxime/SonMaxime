@@ -7,6 +7,8 @@
 - 📫 Comment me contacter : [Discord](https://discord.gg/78M3hSt) / [Twitter](twitter.com/sonmaximeapx)
 - Avec quoi je programe ? : <img alt="vscode" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png"/>
 
+## Jeux crées : 
+- Flappy Bird (quelques bugs) : https://flappybirdsmjs.000webhostapp.com/
 
 ## 🌍 Languages de programation :
 <p>
