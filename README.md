@@ -9,6 +9,7 @@
 
 ## Jeux crées : 
 - Flappy Bird (quelques bugs) : https://flappybirdsmjs.000webhostapp.com/
+- Tetris (en cours de dev.)
 
 ## 🌍 Languages de programation :
 <p>
