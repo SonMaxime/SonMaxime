@@ -21,5 +21,7 @@
   <img src="https://profile-counter.glitch.me/SonMaxime/count.svg" />
 </p>
 
+## Stats Git :
+
 <img align="left" alt="Mes stats Github" src="https://github-readme-stats.vercel.app/api?username=SonMaxime&show_icons=true&hide_border=true" />
 <img align="left" alt="Mes languages les plus utilisés" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonmaxime&show_icons=true&theme=tokyonight&layout=compact" />
