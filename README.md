@@ -10,7 +10,7 @@ J'espère pouvoir proposer un contenu qui aidera plus d'un 🙂.
 
 ## Quelques jeux que j'ai crée : 
 - Flappy Bird (quelques bugs à régler) : https://flappybirdsmjs.000webhostapp.com/
-- Tetris (en cours de dev.)
+- Tetris : https://tetrisjssm.000webhostapp.com/
 
 ## 🌍 Languages de programation :
 <p>
