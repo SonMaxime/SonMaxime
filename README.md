@@ -1,14 +1,15 @@
-### Hi, I'm SonMaxime
+### Salut ! Je suis SonMaxime !
 
-[![discord](https://discord.com/api/guilds/715493005045268541/widget.json)](discord.gg/78M3hSt)
+Je suis un jeune développeur de 15 ans étudiant au lycée en classe de Secode Générale et Technologique.
+J'ai commencé le développement à l'age de 13 ans quand j'ai voulu apprendre à faire un bot pour mon serveur Discord et depuis c'est devenu une comme une seconde passion qui m'a poussé à faire plus que du Discord c'est pour ça que j'apprends actuellement le HTML (accessoirement le CSS) et le C++ pour faire des logiciels.
+J'espère pouvoir proposer un contenu qui aidera plus d'un 🙂.
 
-
-- 🔭 Projet en cours de construction : [Byleth Radio](https://github.com/SonMaxime/ByltehRadio.JS)
-- 📫 Comment me contacter : [Discord](https://discord.gg/78M3hSt) / [Twitter](twitter.com/sonmaximeapx)
+- 🔭 Projet en cours de construction : [Horizon](https://github.com/SonMaxime/HorizonBot)
+- 📫 Comment me contacter : [Discord](https://discord.gg/78M3hSt) ou bien sur [Twitter](twitter.com/sonmaximeapx)
 - Avec quoi je programe ? : <img alt="vscode" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png"/>
 
-## Jeux crées : 
-- Flappy Bird (quelques bugs) : https://flappybirdsmjs.000webhostapp.com/
+## Quelques jeux que j'ai crée : 
+- Flappy Bird (quelques bugs à régler) : https://flappybirdsmjs.000webhostapp.com/
 - Tetris (en cours de dev.)
 
 ## 🌍 Languages de programation :
