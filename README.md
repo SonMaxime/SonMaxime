@@ -27,4 +27,4 @@ J'espère pouvoir proposer un contenu qui aidera plus d'un 🙂.
 
 <img align="left" alt="Mes stats Github" src="https://github-readme-stats.vercel.app/api?username=SonMaxime&show_icons=true&hide_border=true" />
 <img align="left" alt="Mes languages les plus utilisés" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonmaxime&show_icons=true&theme=tokyonight&layout=compact" />
-[![Github Statistics](https://github-profile-trophy.vercel.app/?username=zechaos031&theme=dracula)
+<img align="left" alt="Mes stats Github" src="https://github-profile-trophy.vercel.app/?username=SonMaxime&theme=dracula" />
