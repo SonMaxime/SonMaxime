@@ -9,7 +9,7 @@ J'espère pouvoir proposer un contenu qui aidera plus d'un 🙂.
 - Avec quoi je programe ? : <img alt="vscode" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png"/>
 
 ## Quelques jeux que j'ai crée : 
-- Flappy Bird (quelques bugs à régler) : https://flappybirdsmjs.000webhostapp.com/
+- Flappy Bird (quelques bugs à régler) : https://flappybird.x-h.fr
 - Tetris : https://tetrisjssm.000webhostapp.com/
 
 ## 🌍 Languages de programation :
