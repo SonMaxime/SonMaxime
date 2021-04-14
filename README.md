@@ -5,7 +5,7 @@ J'ai commencé le développement à l'age de 13 ans quand j'ai voulu apprendre �
 J'espère pouvoir proposer un contenu qui aidera plus d'un 🙂.
 
 - 🔭 Projet personnel en cours de construction : [Horizon](https://github.com/SonMaxime/HorizonBot)
-- 📫 Comment me contacter : [Discord](https://discord.gg/78M3hSt) ou bien sur [Twitter](twitter.com/NB2KSonMaxime)
+- 📫 Comment me contacter : [Twitter](https://twitter.com/NB2KSonMaxime)
 - Avec quoi je programe ? : <img alt="vscode" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png"/>
 
 ## Quelques jeux que j'ai crée : 
