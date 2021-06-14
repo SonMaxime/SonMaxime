@@ -4,7 +4,7 @@ Je suis un jeune développeur de 15 ans étudiant au lycée en classe de Secode 
 J'ai commencé le développement à l'age de 13 ans quand j'ai voulu apprendre à faire un bot pour mon serveur Discord et depuis c'est devenu une comme une seconde passion qui m'a poussé à faire plus que du Discord c'est pour ça que j'apprends actuellement le HTML (accessoirement le CSS) et le C++ pour faire des logiciels.
 J'espère pouvoir proposer un contenu qui aidera plus d'un 🙂.
 
-- 🔭 Projet personnel en cours de construction : [Horizon](https://github.com/SonMaxime/HorizonBot)
+- 🔭 Projet personnel en cours de construction : [Nobara.JS](https://github.com/SonMaxime/Nobara.JS)
 - 📫 Comment me contacter : [Twitter](https://twitter.com/SonMaxime_)
 - Avec quoi je programe ? : <img alt="vscode" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png"/>
 
