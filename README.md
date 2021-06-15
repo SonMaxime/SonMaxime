@@ -1,6 +1,6 @@
 ### Salut ! Je suis SonMaxime !
 
-Je suis un jeune développeur de 15 ans étudiant au lycée en classe de Secode Générale et Technologique.
+Je suis un jeune développeur de 16 ans étudiant au lycée en classe de Première générale.
 J'ai commencé le développement à l'age de 13 ans quand j'ai voulu apprendre à faire un bot pour mon serveur Discord et depuis c'est devenu une comme une seconde passion qui m'a poussé à faire plus que du Discord c'est pour ça que j'apprends actuellement le HTML (accessoirement le CSS) et le C++ pour faire des logiciels.
 J'espère pouvoir proposer un contenu qui aidera plus d'un 🙂.
 
