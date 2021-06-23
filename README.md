@@ -17,6 +17,9 @@ J'espère pouvoir proposer un contenu qui aidera plus d'un 🙂.
   <img alt="js" src="https://img.shields.io/badge/-Javascript-FFEE00?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="c++" src="https://img.shields.io/badge/-C++-21B500?style=flat-square&logo=C++&logoColor=white" />
 </p>
+
+## ⚽ Discord Rish Presence
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/492402867953467392)](https://discord.com/users/492402867953467392)
   
 ## Compteur de visite :
 <p align="left"> 
@@ -28,6 +31,3 @@ J'espère pouvoir proposer un contenu qui aidera plus d'un 🙂.
 <img align="left" alt="Mes stats Github" src="https://github-readme-stats.vercel.app/api?username=SonMaxime&show_icons=true&hide_border=true" />
 <img align="left" alt="Mes languages les plus utilisés" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonmaxime&show_icons=true&theme=tokyonight&layout=compact" />
 <img align="left" alt="Mes stats Github" src="https://github-profile-trophy.vercel.app/?username=SonMaxime&theme=dracula" />
-
-## ⚽ Discord Rish Presence
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/492402867953467392)](https://discord.com/users/492402867953467392)
