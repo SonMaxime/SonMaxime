@@ -30,4 +30,4 @@ J'espère pouvoir proposer un contenu qui aidera plus d'un 🙂.
 <img align="left" alt="Mes stats Github" src="https://github-profile-trophy.vercel.app/?username=SonMaxime&theme=dracula" />
 
 # ⚽ Discord Rish Presence
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/331846231514939392)](https://discord.com/users/331846231514939392)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/492402867953467392)](https://discord.com/users/492402867953467392)
