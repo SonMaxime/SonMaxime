@@ -16,7 +16,6 @@ J'espère pouvoir proposer un contenu qui aidera plus d'un 🙂.
 <p>
   <img alt="js" src="https://img.shields.io/badge/-Javascript-FFEE00?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="ejs" src="https://img.shields.io/badge/-EJS-FFEE00?style=flat-square&logo=javascript&logoColor=black" />
-  <img alt="c++" src="https://img.shields.io/badge/-C++-21B500?style=flat-square&logo=C++&logoColor=white" />
   <img alt="py" src="https://img.shields.io/badge/-Python-168BFA?style=flat-square&logo=python&logoColor=black" />
   <img alt="html" src="https://img.shields.io/badge/-HTML-FF8300?style=flat-square&logo=html5&logoColor=white" />
   <img alt="css" src="https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css&logoColor=blue" />
