@@ -5,7 +5,7 @@ J'ai commencé le développement quand j'ai voulu apprendre à faire un bot pour
 J'espère pouvoir proposer un contenu qui aidera plus d'un 🙂.
 
 - 🔭 Projet personnel en cours de construction : [Nobara.JS](https://github.com/SonMaxime/Nobara.JS)
-- 📫 Comment me contacter : [Twitter](https://twitter.com/444SonMaxime)
+- 📫 Comment me contacter : [Twitter](https://twitter.com/BrutalSonMaxime)
 - Avec quoi je programe ? : <img alt="vscode" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png"/>
 
 ## Quelques jeux que j'ai crée : 
