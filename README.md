@@ -4,7 +4,7 @@ Je suis un jeune développeur étudiant. <br/>
 J'ai commencé le développement quand j'ai voulu apprendre à faire un bot pour me faire passer le temps et apprendre d'autres trucs et depuis c'est devenu une comme une seconde passion qui m'a poussé à faire plus que du Discord c'est pour ça que j'apprends actuellement le HTML (accessoirement le CSS) et le C++/Python pour faire des logiciels.
 J'espère pouvoir proposer un contenu qui aidera plus d'un 🙂.
 
-- 🔭 Projet personnel en cours de construction : [Nobara.JS](https://github.com/SonMaxime/Nobara.JS)
+- 🔭 Projet personnel : [Nobara.JS](https://github.com/SonMaxime/Nobara.JS)
 - 📫 Comment me contacter : [Twitter](https://twitter.com/BrutalSonMaxime)
 - Avec quoi je programe ? : <img alt="vscode" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png"/>
 
