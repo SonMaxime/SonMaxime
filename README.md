@@ -18,7 +18,7 @@ J'espère pouvoir proposer un contenu qui aidera plus d'un 🙂.
   <img alt="py" src="https://img.shields.io/badge/-Python-168BFA?style=flat-square&logo=python&logoColor=black" />
   <img alt="html" src="https://img.shields.io/badge/-HTML-FF8300?style=flat-square&logo=html5&logoColor=white" />
   <img alt="css" src="https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css&logoColor=blue" />
-  <img alt="php" src="https://img.shields.io/badge/-PHP-blue?style=flat-square&logo=php&logoColor=blue" />
+  <img alt="php" src="https://img.shields.io/badge/-PHP-purple?style=flat-square&logo=php&logoColor=black" />
 </p>
 
 ## ⚽ Discord Rish Presence
