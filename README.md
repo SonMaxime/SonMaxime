@@ -1,6 +1,6 @@
 ### Salut ! Je suis SonMaxime !
 
-Je suis un.e jeune développeur.euse étudiant.e. <br/>
+Je suis un jeune développeur.euse étudiant. <br/>
 J'ai commencé le développement quand j'ai voulu apprendre à faire un bot pour me faire passer le temps et apprendre d'autres trucs et depuis c'est devenu une comme une seconde passion qui m'a poussé à faire plus que du Discord c'est pour ça que j'apprends actuellement le HTML (accessoirement le CSS) et le C++/Python pour faire des logiciels.
 J'espère pouvoir proposer un contenu qui aidera plus d'un 🙂.
 
