@@ -1,19 +1,21 @@
 ### Salut ! Je suis SonMaxime !
 
 Je suis un jeune développeur étudiant. <br/>
-Habitué d'informatique depuis le plus jeune âge, j'ai commencé à programmer des petites choses comme un passe temps au collège, ce passe temps finira par devenir une passion qui me mènera à entrer en Licence Informatique à Reims.
+Habitué d'informatique depuis le plus jeune âge, j'ai commencé à programmer des petites choses comme un passe temps au collège, ce passe temps finira par devenir une passion qui me mènera à entrer en Licence Informatique et plus tard me spécialiser en Administration Système après de l'école CESI de Reims. 
 J'espèce au fil des années construire des connaissances solides dans ce vaste monde.
 
 - 🔭 Projet personnel : [Portfolio Personel](https://github.com/SonMaxime/Portfolio)
-- 📫 Comment me contacter : [Twitter](https://twitter.com/BrutalSonMaxime) / maxime.chartogne@gmail.com
+- 📫 Comment me contacter : [Twitter](https://twitter.com/444SonMaxime) / sonmaxime@proton.me
 - Avec quoi je programe ? : <img alt="vscode" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png"/>
 
 ## Quelques jeux que j'ai crée : 
 - Flappy Bird (quelques bugs à régler) : https://github.com/SonMaxime/FlappyBirdNodeJS
+- Two Ways (projet NSI 1ère) : https://github.com/SonMaxime/TwoWaysTheGame
 
 ## 🌍 Languages de programation :
 <p>
   <img alt="js" src="https://img.shields.io/badge/-Javascript-FFEE00?style=flat-square&logo=javascript&logoColor=black" />
+  <img alt="go" src="https://img.shields.io/badge/-Go-168BFA?style=flat-square&logo=go&logoColor=black" />
   <img alt="ejs" src="https://img.shields.io/badge/-EJS-FFEE00?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="py" src="https://img.shields.io/badge/-Python-168BFA?style=flat-square&logo=python&logoColor=black" />
   <img alt="html" src="https://img.shields.io/badge/-HTML-FF8300?style=flat-square&logo=html5&logoColor=white" />
