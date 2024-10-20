@@ -7,7 +7,6 @@
     "website": "https://example.com",
     "tintColor": "#4185A9",
     "featuredApps": [
-        "com.soundcloud.TouchApp",
         "com.spotify.client"
     ],
     "apps": [
@@ -33,7 +32,7 @@
                     "version": "8.9.82",
                     "date": "2022-05-01T09:00:00-08:00",
                     "size": 20000000,
-                    "downloadURL": "https://cdn.discordapp.com/attachments/1145677891460407366/1297633795012300831/EeveeSpotify-5.5-8.9.82.ipa?ex=6716a325&is=671551a5&hm=eeffdf11d0ef46dfe751032801a2fdcffe55619e650eeb12e3eb1c2281567dc2&",
+                    "downloadURL": "https://cdn.discordapp.com/attachments/1145677891460407366/1297633795012300831/EeveeSpotify-5.5-8.9.82.ipa",
                     "localizedDescription": "New features and bug fixes.",
                     "minOSVersion": "12.0"
                 }
