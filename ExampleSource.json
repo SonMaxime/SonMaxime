@@ -1,0 +1,78 @@
+{
+    "name": "SM-SOURCE",
+    "subtitle": "All my apps in one place.",
+    "description": "Welcome to my source! Here you'll find all of my apps.",
+    "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/OctoSource.png",
+    "headerURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/OceanHeader.png",
+    "website": "https://example.com",
+    "tintColor": "#4185A9",
+    "featuredApps": [
+        "com.soundcloud.TouchApp",
+        "com.spotify.client"
+    ],
+    "apps": [
+        {
+            "name": "My Example App",
+            "bundleIdentifier": "com.spotify.client",
+            "developerName": "SonMaxime - EeveeBuilds",
+            "subtitle": "An awesome app.",
+            "localizedDescription": "This is an awesome app only available on AltStore.",
+            "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/FishApp.png",
+            "tintColor": "#5CA399",
+            "screenshots": [
+                "https://cdn.discordapp.com/attachments/1145677891460407366/1297632561081745509/GaWrzaPXMAEbOfb.png?ex=6716a1ff&is=6715507f&hm=5cc762b62a67ec5747021d185feb6f7f5d93f31eb2d63803234daf8506dfa731&",
+                "https://cdn.discordapp.com/attachments/1145677891460407366/1297632586918793376/GaWrzaNW4AAkphX.png?ex=6716a205&is=67155085&hm=a5def64c65a260020ea45be376654063d820c2ce1c0e931d3b126b5d39f456c8&",
+                {
+                    "imageURL": "https://cdn.discordapp.com/attachments/1145677891460407366/1297632586918793376/GaWrzaNW4AAkphX.png?ex=6716a205&is=67155085&hm=a5def64c65a260020ea45be376654063d820c2ce1c0e931d3b126b5d39f456c8&",
+                    "width": 2556,
+                    "height": 1179
+                }
+            ],
+            "versions": [
+                {
+                    "version": "8.9.82",
+                    "date": "2022-05-01T09:00:00-08:00",
+                    "size": 20000000,
+                    "downloadURL": "https://example.com/myapp_v1.1.ipa",
+                    "localizedDescription": "New features and bug fixes.",
+                    "minOSVersion": "12.0"
+                }
+            ],
+            "appPermissions": {
+                "entitlements": [
+                    "com.apple.security.application-groups",
+                    "com.apple.developer.siri",
+                    "com.apple.developer.search-api",
+                    "com.apple.developer.cellular-data"
+                ],
+                "privacy": {
+                    "NSPhotoLibraryUsageDescription": "App saves photos to your Photo Library.",
+                    "NSCameraUsageDescription": "App uses camera to take photos.",
+                    "NSMicrophoneUsageDescription": "App uses microphone to record video."
+                }
+            }
+        }
+    ],
+    "news": [
+        {
+            "title": "New Feature Announcement",
+            "identifier": "new_feature",
+            "caption": "Introducing a new feature in AltStore!",
+            "date": "2023-03-15",
+            "tintColor": "#5CA399",
+            "imageURL": "https://example.com/new_feature_image.png",
+            "notify": true,
+            "url": "https://example.com/new_feature_details"
+        },
+        {
+            "title": "App Update Available",
+            "identifier": "app_update",
+            "caption": "An update is available for My Example App.",
+            "date": "2023-03-10T10:00:00-07:00",
+            "tintColor": "#3660A2",
+            "imageURL": "https://example.com/app_update_image.png",
+            "notify": false,
+            "appID": "com.example.myapp"
+        }
+    ]
+}
