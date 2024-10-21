@@ -1,103 +1,42 @@
 {
-    "name": "SM-SOURCE",
-    "subtitle": "All my apps in one place.",
-    "identifier": "com.sonmaxime.smsource",
-    "description": "Welcome to my source! Here you'll find all of my apps.",
-    "apiVersion": "v2",
-    "iconURL": "https://quarksources.github.io/assets/ElementQ-Circled.png",
-    "headerURL": "https://quarksources.github.io/assets/quantumsource++.png",
-    "website": "https://sonmaxime.github.io/SonMaxime/",
-    "sourceURL": "https://sonmaxime.github.io/SonMaxime/ExampleSource.json"
-    "tintColor": "#4185A9",
-    "featuredApps": [
-        "com.spotify.client"
-    ],
-    "apps": [
+  "name": "SM-SOURCE",
+  "identifier": "com.myname.mysource",
+  "sourceURL": "https://sonmaxime.github.io/SonMaxime/ExampleSource.json",
+  "apps": [
+    {
+      "name": "Spotify++",
+      "bundleIdentifier": "com.spotify.client",
+      "marketplaceID": "6478868316",
+      "developerName": "SonMaxime",
+      "subtitle": "The newest and greatest app around.",
+      "versions": [
         {
-            "name": "Spotify++",
-            "bundleIdentifier": "com.spotify.client",
-            "developerName": "SonMaxime - EeveeBuilds",
-            "subtitle": "Spotify with free premium, and extra UI features",
-            "localizedDescription": "Spotify++ contants a tweak that activates Premium. As well as a number of tweaks to customise the UI and improve the overall user experience.\n\nHere are the following tweaks:\n\n\u2022 Spotilife - Premium for free.\n\n\u2022 Sposify - A Tweak to customize your Spotify App UI and expand functionalities.\n\n\u2022 Volify - Adds a volume slider to Spotify.\n\n\u2022 SpotifyAllowSetting - Allows you to access all of the settings in Spotify that are normally disabled when someone else is playing music from another device.\n\n\u2022 SpotifyNoPodcasts - Hides Podcasts from from Home and Library\n\n\u2022 SpotifyHighQuality - Enables \u2019Very High\u2019 Quality in Audio Quality settings\n\n\u2022TrueShuffle - Enables true random shuffling (Spotify prioritizes Songs you have listened to more often by default)\n\n\u2022 Spoticentre - Centres the song/artist in now playing (Only working on some devices)\n",
-            "iconURL": "https://img.ipa4fun.com/ef/cd/d4/324684580-logo.jpg",
-            "tintColor": "#1c843c",
-            "screenshots": [
-                "https://cdn.discordapp.com/attachments/1145677891460407366/1297632561081745509/GaWrzaPXMAEbOfb.png?ex=6716a1ff&is=6715507f&hm=5cc762b62a67ec5747021d185feb6f7f5d93f31eb2d63803234daf8506dfa731&",
-                "https://cdn.discordapp.com/attachments/1145677891460407366/1297632586918793376/GaWrzaNW4AAkphX.png?ex=6716a205&is=67155085&hm=a5def64c65a260020ea45be376654063d820c2ce1c0e931d3b126b5d39f456c8&",
-                {
-                    "imageURL": "https://cdn.discordapp.com/attachments/1145677891460407366/1297632586918793376/GaWrzaNW4AAkphX.png?ex=6716a205&is=67155085&hm=a5def64c65a260020ea45be376654063d820c2ce1c0e931d3b126b5d39f456c8&",
-                    "width": 2556,
-                    "height": 1179
-                }
-            ],
-            "versions": [
-                {
-                    "version": "8.9.98",
-                    "date": "2024-05-10",
-                    "localizedDescription": "\u2022 EeveeSpotify now supports LRCLIB and Musixmatch time-synced lyrics sources! You can select your preferred source in the tweak settings\n\u2022 Lyrics colors are now normalized\n\u2022 Fixed Genius issue where the tweak would pick a translation instead of the original lyrics",
-                    "downloadURL": "https://cdn.discordapp.com/attachments/1145677891460407366/1297633795012300831/EeveeSpotify-5.5-8.9.82.ipa",
-                    "size": 68800000,
-                    "sha256": "01bba7154e0b9fb25e81ac0730cf926614f077e7ef67ac6390735e29fbdad766"
-                }
-            ],
-            "appPermissions": {
-        "entitlements": [],
-        "privacy": [
-            {
-                "name": "AppleMusic",
-                "usageDescription": "This will let you play your imported music on Spotify."
-            },
-            {
-                "name": "BluetoothAlways",
-                "usageDescription": "This lets you unlock new ways of interacting with other devices compatible with Spotify via Bluetooth."
-            },
-            {
-                "name": "BluetoothPeripheral",
-                "usageDescription": "This lets you unlock new ways of interacting with other devices compatible with Spotify via Bluetooth."
-            },
-            {
-                "name": "Camera",
-                "usageDescription": "This lets you scan Spotify Codes."
-            },
-            {
-                "name": "FaceID",
-                "usageDescription": "This lets you set access restrictions using Face ID."
-            },
-            {
-                "name": "HealthShare",
-                "usageDescription": "Spotify will use HealthKit data to provide personalised audio recommendations for your workouts."
-            },
-            {
-                "name": "HealthUpdate",
-                "usageDescription": "Spotify will use HealthKit data to provide personalised audio recommendations for your workouts."
-            },
-            {
-                "name": "LocalNetwork",
-                "usageDescription": "This lets you listen on different devices. Spotify will also get access to local audio files."
-            },
-            {
-                "name": "Microphone",
-                "usageDescription": "This lets you control Spotify using your voice."
-            },
-            {
-                "name": "Motion",
-                "usageDescription": "We will use this to understand which audio motivates you most."
-            },
-            {
-                "name": "PhotoLibraryAdd",
-                "usageDescription": "This lets you save images to your Photo Library."
-            },
-            {
-                "name": "PhotoLibrary",
-                "usageDescription": "This lets you select images from your Photo Library."
-            },
-            {
-                "name": "UserTracking",
-                "usageDescription": "Your data will be used to deliver personalized ads or content to you."
-            }
-            ]
-        },
-        "appID": "com.spotify.client"
+          "version": "1.1",
+          "date": "2020-04-21",
+          "localizedDescription": "Bug fixes.",
+          "downloadURL": "https://cdn.discordapp.com/attachments/1145677891460407366/1297633795012300831/EeveeSpotify-5.5-8.9.82.ipa",
+          "size": 87129,
+          "minOSVersion": "15.0"
         }
-    ]
+      ],
+      "downloadURL": "https://cdn.discordapp.com/attachments/1145677891460407366/1297633795012300831/EeveeSpotify-5.5-8.9.82.ipa",
+      "localizedDescription": "Features include:\n\n• Cool graphics\n• Top notch performance\n• Satisfying interactions",
+      "iconURL": "https://img.ipa4fun.com/ef/cd/d4/324684580-logo.jpg",
+      "tintColor": "8A28F7",
+      "beta": false
+    }
+  ],
+  "news": [
+    {
+      "title": "My App Now Available!",
+      "identifier": "my-app-available-download",
+      "caption": "The app to beat all apps.",
+      "date": "2020-04-21",
+      "tintColor": "8A28F7",
+      "iconURL": "https://img.ipa4fun.com/ef/cd/d4/324684580-logo.jpg",
+      "url": "https://sonmaxime.github.io/SonMaxime",
+      "appID": "com.spotify.client",
+      "notify": false
+    }
+  ]
 }
