@@ -6,6 +6,7 @@
     "iconURL": "https://quarksources.github.io/assets/ElementQ-Circled.png",
     "headerURL": "https://quarksources.github.io/assets/quantumsource++.png",
     "website": "https://sonmaxime.github.io/SonMaxime/",
+    "sourceURL": "https://sonmaxime.github.io/SonMaxime/ExampleSource.json"
     "tintColor": "#4185A9",
     "featuredApps": [
         "com.spotify.client"
