@@ -1,6 +1,7 @@
 {
     "name": "SM-SOURCE",
     "subtitle": "All my apps in one place.",
+    "identifier": "com.sonmaxime.smsource",
     "description": "Welcome to my source! Here you'll find all of my apps.",
     "apiVersion": "v2",
     "iconURL": "https://quarksources.github.io/assets/ElementQ-Circled.png",
