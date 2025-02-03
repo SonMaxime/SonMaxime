@@ -1,4 +1,4 @@
-### Salut ! Je suis SonMaxime !
+### Salut !
 
 Je suis un jeune développeur étudiant. <br/>
 Habitué d'informatique depuis le plus jeune âge, j'ai commencé à programmer des petites choses comme un passe temps au collège, ce passe temps finira par devenir une passion qui me mènera à entrer en Licence Informatique et plus tard me spécialiser en Administration Système après de l'école CESI de Reims. 
