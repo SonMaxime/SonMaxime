@@ -23,6 +23,12 @@ J'espèce au fil des années construire des connaissances solides dans ce vaste 
   <img alt="php" src="https://img.shields.io/badge/-PHP-purple?style=flat-square&logo=php&logoColor=black" />
 </p>
 
+## Spécialités techniques :
+<p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Windows_Server_logo.svg" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR123zltkc88XA7Fv_Y4fj945wTdSl7SGIabA&s" />
+</p>
+
 ## ⚽ Discord Rish Presence
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/492402867953467392)](https://discord.com/users/492402867953467392)
   
