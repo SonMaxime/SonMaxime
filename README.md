@@ -25,8 +25,8 @@ J'espèce au fil des années construire des connaissances solides dans ce vaste 
 
 ## Spécialités techniques :
 <p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Windows_Server_logo.svg" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR123zltkc88XA7Fv_Y4fj945wTdSl7SGIabA&s" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Windows_Server_logo.svg" width="600" height="250" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR123zltkc88XA7Fv_Y4fj945wTdSl7SGIabA&s" width="600" height="250" />
 </p>
 
 ## ⚽ Discord Rish Presence
