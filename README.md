@@ -5,7 +5,7 @@ Habitué d'informatique depuis le plus jeune âge, j'ai commencé à programmer 
 J'espèce au fil des années construire des connaissances solides dans ce vaste monde.
 
 - 🔭 Projet personnel : [Portfolio Personel](https://github.com/SonMaxime/Portfolio)
-- 📫 Comment me contacter : [Twitter](https://twitter.com/444SonMaxime) / sonmaxime@proton.me
+- 📫 Comment me contacter : sonmaxime@proton.me
 - Avec quoi je programe ? : <img alt="vscode" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png"/>
 
 ## Quelques jeux que j'ai crée : 
